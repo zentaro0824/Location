@@ -10,6 +10,7 @@ import com.android.volley.RequestQueue;
 
 public class MainActivity extends ActionBarActivity {
     private RequestQueue requestQueue;
+    TextView textView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
